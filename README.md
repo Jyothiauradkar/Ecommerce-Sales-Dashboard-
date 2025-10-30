@@ -10,4 +10,5 @@ An interactive Power BI dashboard visualizing key e-commerce metrics — includi
 Tools Used: Power BI, Excel.
 
 Screenshorts:
-Dashboard preview ( https://github.com/Jyothiauradkar/Ecommerce-Sales-Dashboard-/blob/main/Sales%20Dashboard.png )
+
+![Dashboard preview].(https://github.com/Jyothiauradkar/Ecommerce-Sales-Dashboard-/blob/main/Sales%20Dashboard.png)
